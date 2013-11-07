@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/btn_keyboard_key_dark_normal_holo">@drawable/calculator_btn_keyboard_key_dark_normal_holo</item>
+    <item name="drawable/calculator_input_field">@drawable/calculator_input_field</item>
+</resource-redirections>

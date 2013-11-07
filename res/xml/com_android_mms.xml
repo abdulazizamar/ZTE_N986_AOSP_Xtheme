@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="mipmap/ic_launcher_smsmms">@mipmap/com_android_mms_ic_launcher_smsmms</item>
+	<item name="drawable/mms_default_h">@drawable/com_android_mms_mms_default_h</item>
+	<item name="drawable/mms_default_n">@drawable/com_android_mms_mms_default_n</item>
+	<item name="drawable/isms_emoticon">@drawable/com_android_mms_isms_emoticon</item>
+	<item name="drawable/isms_keyboard">@drawable/com_android_mms_isms_keyboard</item>
+	<item name="drawable/isms_share">@drawable/com_android_mms_isms_share</item>
+</resource-redirections>

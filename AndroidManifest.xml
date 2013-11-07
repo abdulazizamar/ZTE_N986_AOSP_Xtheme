@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:hasCode="false" android:versionCode="17" android:versionName="1.0.0" package="awaaas.zteaosp.xtheme"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:pluto="http://www.w3.org/2001/pluto.html">
+    <application android:label="ZTE N986 AOSP Theme" android:icon="@drawable/icon" android:hasCode="false" android:debuggable="true" name="ZTEAOSP" />
+    <uses-permission android:name="sg.ruqqq.XThemeEngine.permission.SYSTEM_THEME" />
+</manifest>

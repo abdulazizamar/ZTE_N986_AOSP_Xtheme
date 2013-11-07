@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/background_holo_dark">@drawable/frameworks_res_background_holo_dark</item>
+    <item name="drawable/default_wallpaper">@drawable/frameworks_res_default_wallpaper</item>
+    <item name="drawable/ab_bottom_solid_dark_holo">@drawable/frameworks_res_ab_bottom_solid_dark_holo</item>
+    <item name="drawable/ab_bottom_solid_inverse_holo">@drawable/frameworks_res_ab_bottom_solid_inverse_holo</item>
+    <item name="drawable/ab_solid_dark_holo">@drawable/frameworks_res_ab_solid_dark_holo</item>
+    <item name="drawable/ab_stacked_solid_dark_holo">@drawable/frameworks_res_ab_stacked_solid_dark_holo</item>
+    <item name="drawable/ab_stacked_solid_inverse_holo">@drawable/frameworks_res_ab_stacked_solid_inverse_holo</item>
+    <item name="drawable/dialog_bottom_holo_dark">@drawable/frameworks_res_dialog_bottom_holo_dark</item>
+    <item name="drawable/dialog_full_holo_dark">@drawable/frameworks_res_dialog_full_holo_dark</item>
+    <item name="drawable/dialog_middle_holo_dark">@drawable/frameworks_res_dialog_middle_holo_dark</item>
+    <item name="drawable/dialog_top_holo_dark">@drawable/frameworks_res_dialog_top_holo_dark</item>
+    <item name="drawable/menu_dropdown_panel_holo_dark">@drawable/frameworks_res_menu_dropdown_panel_holo_dark</item>
+    <item name="drawable/menu_hardkey_panel_holo_dark">@drawable/frameworks_res_menu_hardkey_panel_holo_dark</item>
+    <item name="drawable/toast_frame">@drawable/frameworks_res_toast_frame</item>
+    <item name="drawable/toast_frame_holo">@drawable/frameworks_res_toast_frame_holo</item>
+    <item name="drawable/panel_bg_holo_dark">@drawable/frameworks_res_panel_bg_holo_dark</item>
+    <item name="drawable/notify_panel_notification_icon_bg">@drawable/frameworks_res_notify_panel_notification_icon_bg</item>
+    <item name="drawable/notification_template_icon_bg">@drawable/notification_template_icon_bg</item>
+    <item name="drawable/notification_bg_low_normal">@drawable/frameworks_res_notification_bg_low_normal</item>
+    <item name="drawable/notification_bg_normal">@drawable/frameworks_res_notification_bg_normal</item>
+    <item name="drawable/switch_bg_holo_dark">@drawable/switch_bg_holo_dark</item>
+</resource-redirections>

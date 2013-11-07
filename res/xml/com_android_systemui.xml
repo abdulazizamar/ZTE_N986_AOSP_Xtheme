@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+    <item name="drawable/ic_notification_dnd">@drawable/com_android_systemui_ic_notification_dnd</item>
+    <item name="drawable/notification_header_bg">@drawable/com_android_systemui_notification_header_bg</item>
+    <item name="drawable/notification_panel_bg">@drawable/com_android_systemui_notification_panel_bg</item>
+    <item name="drawable/status_bar_bg_tile">@drawable/com_android_systemui_status_bar_bg_tile</item>
+    <item name="drawable/qs_tile_background">@drawable/com_android_systemui_qs_tile_background</item>
+    <item name="drawable/status_bar_close_off">@drawable/com_android_systemui_status_bar_close_off</item>
+    <item name="drawable/status_bar_close_on">@drawable/com_android_systemui_status_bar_close_on</item>
+</resource-redirections>
