@@ -1,2 +1,2 @@
-ZTE_N986_AOSP_Xtheme
-====================
+ZTE N986 AOSP Look Xtheme
+=========================
