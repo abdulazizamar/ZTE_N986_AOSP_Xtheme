@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
-    <item name="drawable/btn_keyboard_key_dark_normal_holo">@drawable/calculator_btn_keyboard_key_dark_normal_holo</item>
-    <item name="drawable/calculator_input_field">@drawable/calculator_input_field</item>
+	<item name="mipmap/ic_launcher_calculator">@mipmap/com_android_calculator2_ic_launcher_calculator</item>
 </resource-redirections>

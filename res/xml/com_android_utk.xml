@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resource-redirections>
+	<item name="drawable/ic_launcher_uim_toolkit">@drawable/com_android_utk_ic_launcher_uim_toolkit</item>
+</resource-redirections>

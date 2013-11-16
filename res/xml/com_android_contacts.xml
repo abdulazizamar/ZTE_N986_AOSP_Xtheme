@@ -2,7 +2,5 @@
 <resource-redirections>
 	<item name="mipmap/ic_launcher_contacts">@mipmap/com_android_contacts_ic_launcher_contacts</item>
 	<item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
-    <item name="drawable/background_dial_holo_dark">@drawable/com_android_contacts_background_dial_holo_dark</item>
-    <item name="drawable/dial_background_texture">@drawable/com_android_contacts_dial_background_texture</item>
 	<item name="drawable/ic_launcher_calllogs">@drawable/com_android_contacts_ic_launcher_calllogs</item>
 </resource-redirections>

@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resource-redirections>
 	<item name="mipmap/ic_launcher_phone">@mipmap/com_android_contacts_ic_launcher_phone</item>
-    <item name="drawable/dial_background_texture">@drawable/com_android_phone_dial_background_texture</item>
 </resource-redirections>

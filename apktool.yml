@@ -1,0 +1,12 @@
+version: 1.5.2
+apkFileName: Base.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '17'
+packageInfo:
+  cur_package: awaaas.mrwhite.xtheme
+  orig_package: awaaas.mrwhite.xtheme
+compressionType: true
